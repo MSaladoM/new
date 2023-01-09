@@ -7,7 +7,8 @@ This program reads a string S (of any length) and identifies if S was formed by
 concatenating a string T with itself one or more times. 
 Finally, the program prints the smallest T from which S can be obtained by repetition.
 The program also computes the length of the string and the number of times the 
-string T is repeated..
+string T is repeated.
+ESTE ES EL CAMBIO EN EL CÓDIGO
 
 """
 class NoRep:
